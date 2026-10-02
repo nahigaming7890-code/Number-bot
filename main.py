@@ -288,14 +288,14 @@ API_KEY = "mino_live_2bb81425573dd36b3e9b0709d151ce2a"
 BASE_URL = "https://minosms.com"      
 
 # --- SYSTEM IDS & ADMINS ---
-ADMINS = [8216845222]
+ADMINS = [7761989115]
 OTP_GROUP_ID = --1004337830690
 
 # --- SYSTEM LINKS & USERNAME SETTINGS ---
 DEFAULT_WELCOME_MESSAGE = f"{p_em('live')} <b>MINO NUMBER BOT</b> {p_em('live')}\n━━━━━━━━━━━━━━━━━━━━━━━━\n{p_em('status')} <b>START INSTANT OTP RECEPTION NOW!</b> {p_em('status')}\n━━━━━━━━━━━━━━━━━━━━━━━━"
 DEFAULT_OTP_GROUP_URL = "https://t.me/nahiotp"
 DEFAULT_CHANNEL_URL = "https://t.me/Nahibeveloper"
-DEFAULT_SUPPORT_USERNAME = "@Nahideveloper2"
+DEFAULT_SUPPORT_USERNAME = "@mohammad_arif098"
 FORCE_JOIN_CHANNELS = ["@Nahideveloper2"]
 
 # --- WITHDRAWAL & STATS LIMITS ---
