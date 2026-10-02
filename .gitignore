@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+*.json
+*.log
+users.json
+paid_sms.json
+banned_users.json
+withdraw_requests.json
+activity_logs.json
+settings.json
+active_numbers.json
+manual_ranges.json
+datarange.json
+user_stats.json
